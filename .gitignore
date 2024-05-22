@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj
+
+# SwiftPM
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Flutter
+.flutter-plugins
+.packages
+.podspec
+.pub-cache
+.pub/
+.flutter-plugins-dependencies
+
+# Android
+local.properties
+*.iml
+.idea/
+.gradle/
+build/
+
+# Other
+*.swp
+*.lock
+*~
+DerivedData/
